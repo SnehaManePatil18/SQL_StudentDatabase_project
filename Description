@@ -1,0 +1,12 @@
+SQL Practice: Data Manipulation Queries
+
+This practice session is helping you master essential SQL commands for manipulating data within a database. 
+You’ll work on queries that involve inserting, updating, deleting, and copying data, which are crucial for managing and maintaining relational databases.
+The exercises has cover:
+
+INSERT INTO: Learn how to add new records into a table.
+UPDATE: Modify existing data in a table based on specified conditions.
+DELETE FROM: Remove records from a table while applying filters to ensure accuracy.
+COPY (or equivalent): Duplicate data between tables or databases, often using INSERT INTO SELECT statements or other relevant methods.
+TRUNCATE: Quickly remove all records from a table while preserving its structure.
+REPLACE: Insert new data or update existing data based on conflicts, useful for upsert operations.
